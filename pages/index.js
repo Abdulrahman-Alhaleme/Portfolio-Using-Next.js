@@ -32,8 +32,9 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor lorem ipsum
-            dolor lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor
+            Full-Stack Web Developer passionate about building modern React
+            interfaces and scalable Node.js backends — with hands-on experience
+            in embedded systems (ESP32) and AI-powered IoT solutions.
           </motion.p>
 
           <div className="flex justify-center xl:hidden relative">
